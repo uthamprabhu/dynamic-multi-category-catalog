@@ -7,7 +7,7 @@ The application dynamically renders categories and item details based on a JSON 
 
 ## Live Demo
 
-Vercel Deployment: <your-vercel-link>
+Vercel Deployment: [click here](https://dynamic-multi-category-catalog-unsp.vercel.app/)
 
 ---
 
